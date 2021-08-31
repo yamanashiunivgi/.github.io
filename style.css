@@ -28,6 +28,13 @@ h1 {
     left: 375px;
     letter-spacing: 4px;
 } 
+.about:hover {
+  background: #ffa500;
+  text-decoration: none;
+}
+.about:visited {
+  color: #000000;
+}
  
 .activity {
     font-weight: bold;
